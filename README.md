@@ -5,4 +5,4 @@ In the project I aimed to predict uber stock prices. Using public data on their 
 
 ![Dtree model](https://github.com/Kamuthuj/Uber-stock-prediction/assets/121629618/d8d48a2c-e532-49f8-83db-88530937879d)
 
-I used the linear regression and decision tree model to train the data. Both models performed equally the same givng a mean squared error of about  3.067. This prompted me to do hyperparameter tuning to get the best model and  hyperparameters and perfomed Grid search. This reduced the mean squared error to 0.28 proving that the model worked well.
+I used the linear regression and decision tree model to train the data. Both models performed equally the same having a mean squared error of about  3.067. This prompted me to do hyperparameter tuning to get the best model and  hyperparameters and perfomed Grid search. This reduced the mean squared error to 0.28 proving that the model worked well.
