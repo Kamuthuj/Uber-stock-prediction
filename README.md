@@ -1,3 +1,4 @@
+# Stock Prediction.
 
 ![uber](https://github.com/Kamuthuj/Uber-stock-prediction/assets/121629618/dcb5d5fd-75d2-4100-93cc-08cc1c632826)
 
